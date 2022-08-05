@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **861101687@qq.com**
 
-- 📄 Know about my experiences [http://rf7bf18h7.hd-bkt.clouddn.com/%E8%83%A1%E4%B9%89%E7%A7%8B-2023-golang.pdf](http://rf7bf18h7.hd-bkt.clouddn.com/%E8%83%A1%E4%B9%89%E7%A7%8B-2023-golang.pdf)
+- 📄 Know about my experiences [胡义秋2023-golang](http://rf7bf18h7.hd-bkt.clouddn.com/%E8%83%A1%E4%B9%89%E7%A7%8B-2023-golang.pdf)
 
 - ⚡ Fun fact **:code won't betray you**
 
