@@ -3,6 +3,4 @@
 
 - 🌱 I’m currently working on **Go, Kubernetes, Rancher**
 
-- 💻 Every developer should know about front-end so I'm learning **ReactJs, Swift** right now.
-
-- 📫 How to reach me **861101687@qq.com**
+- 💻 I'm learning **ReactJs, Swift** right now because I believe every developer should know about front-end.
